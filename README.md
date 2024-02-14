@@ -14,3 +14,5 @@ This code performs pre-processing and employs sklearn-based clustering algorithm
 
 ## Project Four (Deep Learning): MNIST Classification
 This code performs pre-processing of the MNIST dataset, and employs Keras/Tensorflow to generate a fully connected neural network for the purposes of image classification. 
+
+## Capstone and Dashboarding (Random Data Science and Machine Learning Projects from IBM Course)
