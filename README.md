@@ -6,11 +6,3 @@ The purpose of this code is to determine the optimal time to purchase a home (if
 
 Tool uses a nested for loop to iterate through the time at which a home is purchased.
 
-## Project Two
-TBD
-
-## Project Three
-TBD
-
-## Project Four
-TBD
